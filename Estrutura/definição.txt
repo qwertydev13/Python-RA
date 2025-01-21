@@ -1,0 +1,14 @@
+1) Escopo de Estudo
+
+- Python, por meio das bibliotecas de scrapping (Requests, Selenium, bs4), bibliotecas de tratamento de tabelas/dades (pandas, numpy, pyspark), além de estudar e revisar boas práticas de estrutura de código na linguagem. Funções, Classes, etc.
+- Github, por meio da organização das versões, commit, pull, push, branches e ao final, entender como embalar o projeto (docker?)
+
+2) Entregáveis
+
+- Tabelas `FATO_TIPO_RECLAMACAO` contendo tipos de reclamações relatados, `FATO_RECLAMACAO` contendo as reclamações em si, assim com as principais informações como usuário que relatou, data, resposta, média de tempo para as respostas, etc. A ideia é obter informações sobre o perfil dos clientes que estão reclamando, assim como informações sobre as respostas, tempo médio, entender se há padronização nas respostas (respostas genéricas), etc.
+- Tabela auxiliar à `FATO_RECLAMACAO` contendo uma lista de palavras com id para estar relacionado com a fato (visuais de contagem de palavras, wordcloud).
+
+3) 
+    a) em https://www.reclameaqui.com.br/empresa/, extrair informações de desempenho geral da empresa, reputalão, nota média dos últimos 6 meses, informações sobre a empresa,
+    b) em https://www.reclameaqui.com.br/empresa/xxxxxxx/#problem-types, extrair informações dos principais problemas relatados, assim como as subcategorias, percentuais e total de reclamações por tópico.
+    c) em https://www.reclameaqui.com.br/xxxxxxx/...., informações de ID da reclamação, data, localidade, as 3 categorias informadas, conteúdo da reclamação separando reclamação, resposta, tréplica, etc. trazendo também a data de cada uma, nota da reclamação/resolução do problema se houver, se voltaria a fazer negócio, etc.
