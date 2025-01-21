@@ -7,8 +7,8 @@ _A ideia é estudar um pouco sobre as funcionalidades do github e de python nest
 Etapas que tenho em mente neste momento, podendo incluir outras depois ou dividir uma etapa se tiver muitos assuntos num mesmo tópico. (_6 e 7 provavelmente_)
 
 - [x] 01 - Definição do escopo de estudo.
-- [ ] 02 - Entregáveis do projeto, como integrar os dados que serão obtidos neste projeto com a camada de visualização.
-- [ ] 03 - Definição do que será raspado, tanto na pasta raiz quanto nas reclamações individuais, capturando também réplicas, tréplicas, etc.
+- [x] 02 - Entregáveis do projeto, como integrar os dados que serão obtidos neste projeto com a camada de visualização.
+- [x] 03 - Definição do que será raspado, tanto na pasta raiz quanto nas reclamações individuais, capturando também réplicas, tréplicas, etc.
 - [ ] 04 - Estudo das bibliotecas de scraping, entendendo melhores casos de uso de de cada uma.
 - [ ] 05 - Identificar qual ou quais as melhores bibliotecas se adequariam a este projeto. (Entendendo que durante a fase de execução poderá ser necessário alterar e informar o motivo)
 - [ ] 06 - Criar código base de extração.
